@@ -1,6 +1,5 @@
 module.exports = {
     title:'Hello VuePress',
-    base:'/gfe/gwiki',
     themeConfig: {
         sidebar: [
             '/',
