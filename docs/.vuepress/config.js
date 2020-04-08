@@ -9,7 +9,7 @@ module.exports = {
           ],
         nav: [
             {
-                text: 'Languages',
+                text: 'Languages123',
                 ariaLabel: 'Language Menu',
                 items: [
                     {
