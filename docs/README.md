@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: /hero.png
-heroText: Hero
+heroText: gome文档
 tagline: Hero 副标题
 actionText: 快速上手 →
 actionLink: /zh/guide/
